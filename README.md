@@ -90,4 +90,4 @@ python src/semantic_kernel_example.py
 ## 📢 Contribuição
 Sinta-se à vontade para abrir **issues** ou enviar **pull requests** com melhorias!
 
-📧 Contato: *[Seu Email ou LinkedIn]*
+📧 Contato: *[LinkedIn](https://www.linkedin.com/in/marioevangelista)*
